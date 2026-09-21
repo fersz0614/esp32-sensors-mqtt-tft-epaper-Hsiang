@@ -1,0 +1,35 @@
+# Arduino / ESP32 build output
+.arduino-build*/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.bak
+*.swp
+_pdfwork/
+**/build_upload/
+
+# Public-repository exclusions: classroom records, grading data, and local tooling
+0527/
+課堂練習/
+課本範例(AB143)/
+課本.pdf
+codex程式開發.pptx
+使用 NMKING 分享平台.bat
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Keep dependency source trees in the main repository; ignore only their Git metadata.
+**/libraries/*/.git/

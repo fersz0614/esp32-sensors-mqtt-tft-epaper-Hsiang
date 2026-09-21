@@ -1,0 +1,21 @@
+[submodule "ESP32/Waveshare_e-Paper_official"]
+	path = ESP32/Waveshare_e-Paper_official
+	url = https://github.com/waveshareteam/e-Paper.git
+[submodule "ESP32/libraries/Adafruit_BusIO"]
+	path = ESP32/libraries/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+[submodule "ESP32/libraries/Adafruit_GFX_Library"]
+	path = ESP32/libraries/Adafruit_GFX_Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "ESP32/libraries/Adafruit_Sensor"]
+	path = ESP32/libraries/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "ESP32/libraries/DHT_sensor_library"]
+	path = ESP32/libraries/DHT_sensor_library
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "ESP32/libraries/GxEPD2"]
+	path = ESP32/libraries/GxEPD2
+	url = https://github.com/ZinggJM/GxEPD2.git
+[submodule "ESP32/libraries/TFT_22_ILI9225"]
+	path = ESP32/libraries/TFT_22_ILI9225
+	url = https://github.com/Nkawu/TFT_22_ILI9225.git

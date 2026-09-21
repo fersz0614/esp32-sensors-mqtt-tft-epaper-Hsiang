@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..,..\\..,..\\..,..\\..,..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "esp32:esp32:esp32",
+  "hardwareFolders": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\user\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\Hsiang\\20260601 圖形介面程式設計 ESP32\\ESP32\\37_epaper_dht"
+}
