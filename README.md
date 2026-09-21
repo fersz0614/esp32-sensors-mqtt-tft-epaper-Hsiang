@@ -9,8 +9,6 @@
 > **從底層硬體訊號擷取、多協定無線傳輸到多端顯示（TFT / 電子紙 / 雲端）的模組化嵌入式韌體實作與工程展示。**
 
 ---
-👉 關於第一版，請參閱 [HARDWARE_PINOUT.md](./HARDWARE_PINOUT.md)。
----
 
 ## 📌 專案簡介 (Project Overview)
 
@@ -21,7 +19,6 @@
 👉 **[點此查看完整展示網頁 (Live Demo Website)](https://fersz0614.github.io/esp32-sensors-mqtt-tft-epaper-Hsiang/)**
 
 ---
-
 ## 🏗️ 系統架構與資料流向 (System Architecture & Flow)
 
 系統架構採用標準四層式邊緣物聯網架構，確保各模組間的解耦與高擴充性：
@@ -48,3 +45,4 @@
 |  - ILI9225 TFT (SPI, 彩色圖形 UI)          | |  - ThingSpeak API (數據分析與圖表)     |
 |  - E-Paper (低功耗狀態儀表板)              | |  - LINE Notify (即時告警事件推播)      |
 +-------------------------------------------+ +-----------------------------------------+
+```
