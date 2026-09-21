@@ -9,6 +9,8 @@
 > **從底層硬體訊號擷取、多協定無線傳輸到多端顯示（TFT / 電子紙 / 雲端）的模組化嵌入式韌體實作與工程展示。**
 
 ---
+👉 關於詳細的硬體腳位對照與接線說明，請參閱 [HARDWARE_PINOUT.md](./HARDWARE_PINOUT.md)。
+---
 
 ## 📌 專案簡介 (Project Overview)
 
